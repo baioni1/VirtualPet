@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\bin\Debug\defining class practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\bin\Debug\defining class practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\bin\Debug\defining class practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\obj\Debug\defining class practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\obj\Debug\defining class practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\defining class practice\defining class practice\obj\Debug\defining class practice.pdb
